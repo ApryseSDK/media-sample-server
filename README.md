@@ -1,9 +1,9 @@
 # Media Sample Server
 
-Sample server for below [WebViewer](https://www.pdftron.com/documentation/web/) add-ons:
+Sample server for below [WebViewer](https://docs.apryse.com/web) add-ons:
 
-- [WebViewer Audio](https://github.com/XodoDocs/WebViewer-audio)
-- [WebViewer Video](https://github.com/XodoDocs/WebViewer-video)
+- [WebViewer Audio](https://docs.apryse.com/web/audio/audio-redaction)
+- [WebViewer Video](https://docs.apryse.com/web/video/video-redaction)
 
 The Media Sample Server allows for utilization of [ffmpeg](https://ffmpeg.org/) commands in conjunction with WebViewer to allow for greater functionality. Currently redaction of audio and video frames are supported.
 
@@ -22,8 +22,8 @@ If you wish to use s3 with your server, make sure to update the `aws_key` and `a
 
 Below is an example of how to use the server with WebViewer Video. Sample code of how WebViewer-Video could be integrated into your application can be found [here](https://github.com/pdftron/WebViewer-video-sample).
 
-For further information on integrating the server with your application, please check this [link](https://www.pdftron.com/documentation/web/guides/video/video-redaction/) or
-[link](https://www.pdftron.com/documentation/web/guides/audio/audio-redaction/).
+For further information on integrating the server with your application, please check this [link](https://docs.apryse.com/web/video/video-redaction) or
+[link](https://docs.apryse.com/web/audio/audio-redaction).
 
 ```javascript
 import WebViewer from '@pdftron/webviewer';
