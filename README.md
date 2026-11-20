@@ -2,8 +2,8 @@
 
 Sample server for below [WebViewer](https://docs.apryse.com/web) add-ons:
 
-- [WebViewer Audio](https://docs.apryse.com/web/audio/audio-redaction)
-- [WebViewer Video](https://docs.apryse.com/web/video/video-redaction)
+- [WebViewer Audio](https://docs.apryse.com/web/audio/audio)
+- [WebViewer Video](https://docs.apryse.com/web/video/video)
 
 The Media Sample Server allows for utilization of [ffmpeg](https://ffmpeg.org/) commands in conjunction with WebViewer to allow for greater functionality. Currently redaction of audio and video frames are supported.
 
